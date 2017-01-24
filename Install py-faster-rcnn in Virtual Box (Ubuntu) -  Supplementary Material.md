@@ -48,9 +48,7 @@ python demo.py --cpu --net zf
 
  Hopefully, you will see the result like this:
 
-![demo1](https://drive.google.com/open?id=0Bz2f7HxaHOt5bjBvLV9kTml0ejA)
-
-![demo2](https://drive.google.com/open?id=0Bz2f7HxaHOt5dTk2eHp0ZHZ4eG8)
+![demo_result](./demo_result.png)
 
 
 
